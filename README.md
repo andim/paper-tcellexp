@@ -1,12 +1,12 @@
 # Regulation of T cell expansion by antigen presentation dynamics
 
+<img src="https://raw.githubusercontent.com/andim/paper-tcellexp/master/fig1_S234/fig1final.png" width="400" alt='Figure 1' title="Limitation of T cell expansion by antigen decay can explain the power-law dependence of fold expansion on the initial number of cognate T cells">
+
 This repository contains the source code associated with the manuscript
 
 Mayer, Zhang, Perelson, Wingreen: [Regulation of T cell expansion by antigen presentation dynamics](https://doi.org/10.1073/pnas.1812800116), PNAS 2019
 
 It allows reproduction of all numerical results reported in the manuscript.
-
-![Figure 1](https://raw.githubusercontent.com/andim/paper-tcellexp/master/fig1_S234/fig1final.png "Limitation of T cell expansion by antigen decay can explain the power-law dependence of fold expansion on the initial number of cognate T cells")
 
 ## Installation requirements
 
