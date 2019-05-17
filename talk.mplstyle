@@ -1,0 +1,75 @@
+# .15 = dark_gray
+# .8 = light_gray
+
+figure.facecolor: white
+figure.figsize: 9.0, 6.3
+
+text.color: .0
+text.usetex: False
+text.latex.preamble: \usepackage{color}, \usepackage{amsmath}, \usepackage{bm}
+
+image.cmap: Greys
+font.family: sans-serif
+font.serif: cm
+font.sans-serif: Arial, Liberation Sans, Bitstream Vera Sans, sans-serif
+font.size: 18
+
+# axes
+# Tableau10 colors
+axes.prop_cycle: cycler('color', ['1f77b4', 'ff7f0e', '2ca02c', 'd62728', '9467bd', '8c564b', 'e377c2', '7f7f7f', 'bcbd22', '17becf'])
+axes.grid: False
+axes.facecolor: white
+axes.labelcolor: .0
+axes.labelpad: 4.0
+axes.edgecolor: .0
+axes.linewidth: 2.2
+axes.axisbelow: True
+axes.labelsize: medium
+axes.titlesize: medium
+axes.spines.top    : False
+axes.spines.right  : False
+
+# ticks
+xtick.direction: inout
+ytick.direction: inout
+xtick.color: .0
+ytick.color: .0
+xtick.major.pad: 3.0
+ytick.major.pad: 4.0
+xtick.major.size: 8.0
+ytick.major.size: 8.0
+xtick.minor.size: 0
+ytick.minor.size: 0
+xtick.major.width: 1.5
+ytick.major.width: 1.5
+xtick.minor.width: 0.5
+ytick.minor.width: 0.5
+xtick.labelsize: small
+ytick.labelsize: small
+
+# legend
+legend.fontsize: medium
+legend.frameon: False
+legend.numpoints: 1
+legend.scatterpoints: 1
+legend.markerscale: 0.75
+legend.columnspacing: 0.75
+legend.labelspacing  : 0.25
+legend.handletextpad: 0.5
+legend.handlelength: 1.25
+legend.borderaxespad: 0.25
+
+
+# grid
+grid.linewidth: 1.2
+grid.color: .8
+grid.linestyle: -
+
+# lines
+lines.linewidth: 2.3
+lines.markersize: 6.0
+lines.markeredgewidth: 1.2
+lines.solid_capstyle: round
+
+# patches
+patch.linewidth: 2.2
