@@ -6,6 +6,8 @@ Mayer, Zhang, Perelson, Wingreen: [Regulation of T cell expansion by antigen pre
 
 It allows reproduction of all numerical results reported in the manuscript.
 
+![Figure 1](https://raw.githubusercontent.com/andim/paper-tcellexp/master/fig1_S234/fig1final.png "Limitation of T cell expansion by antigen decay can explain the power-law dependence of fold expansion on the initial number of cognate T cells")
+
 ## Installation requirements
 
 The code uses Python 3.6+.
